@@ -1,5 +1,5 @@
-a=(1,2,3,4)
+b=(1,2,3,4)
 # convert in to the list
 
-b= list(a)
-print(b)
+b= list(c)
+print(c)
